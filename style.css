@@ -1,0 +1,170 @@
+body{
+    background-color:#f0e8c2;
+    padding-top: 70px;
+    }
+    
+    
+    .header{
+    border-style:hidden;
+    border-color:black;
+    background-color:black;
+    width:100%;
+    height: 70px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+    top:0;
+    left:0;
+    }
+    
+    
+    .header .name{
+    color:white;
+    text-decoration: underline;
+    }
+    .header .links{
+    background-color: grey;
+    width: 100%;
+    padding-bottom:5px;
+    }
+    .header .links a{
+    background-color:black;
+    border-style:solid;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    .header a{
+    display:inline;
+    margin:auto;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    }
+    
+    
+    .header .links a:hover{
+    cursor: pointer;
+    opacity: .6;
+    }
+    
+    
+    
+    
+    #bio {
+    width: 100%;
+    font-family: 'Times New Romans', sans-serif;
+    font-weight: 100;
+    border-style: solid;
+    border-width: 5px;
+    font-size: 20px;
+    position:absolute;
+    right:0;
+    left:0;
+    }
+    
+    #projectNote{
+        font-family: 'Times New Romans', sans-serif;
+        font-weight: 100;
+        border-style: solid;
+        border-width: 5px;
+        font-size: 25px;
+        position: absolute;
+        padding:10px;
+        left:10px;
+        right:10px;
+    }
+    #me{
+    display:table;
+    margin: 0 auto;
+    width: 400px;
+    float:left;
+    position:static;
+    text-align:center;
+    }
+    
+    
+    
+    
+    .fline{
+    list-style-type: none;
+    font-size:25px;
+    font-family: 'Times New Romans', sans-serif;
+    font-weight:100;
+    }
+    
+    
+    .fline dd{
+    font-size:20px;
+    }
+    
+    
+    .footer1{
+    width:100%;
+    height:30;
+    background-color:black;
+    position:absolute;
+    left:0;
+    bottom:10;
+    }
+
+    .icons{
+    text-align: center;
+    }
+    
+    
+    icons:hover{
+    cursor:pointer;
+    }
+    
+    
+    .icons #linkedin{
+    margin-right:30px;
+    color:black;
+    }
+    
+    
+    .icons #email{
+    color:black;
+    margin-left:30px;
+    }
+    
+    
+    .footer1{
+    background:black;
+    color:black;
+    height: 30;
+    position:absolute;
+    width: 100%;
+    bottom:0;
+    left:0;
+    right:0;
+    }
+    
+    
+    .footbox1{
+    background-color:grey;
+    color:grey;
+    height:20;
+    }
+    
+    
+    .footer2{
+    background:black;
+    color:black;
+    height: 30;
+    position:absolute;
+    width: 100%;
+    bottom:0;
+    left:0;
+    }
+    
+    
+    .footbox2{
+    background-color:grey;
+    color:grey;
+    height:20;
+    }
+    
